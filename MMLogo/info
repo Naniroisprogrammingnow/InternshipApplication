@@ -1,0 +1,10 @@
+Console app that prints the MM logo with parameter n showing the desired width of the legs of the lette M. For the letters * is used, for free 
+space "-"
+N will always be a positive odd number.
+Expected outcome for n = 5:
+-----*****-----*****----------*****-----*****-----
+----*******---*******--------*******---*******----
+---*********-*********------*********-*********---
+--*****-*********-*****----*****-*********-*****--
+-*****---*******---*****--*****---*******---*****-
+*****-----*****-----**********-----*****-----*****
